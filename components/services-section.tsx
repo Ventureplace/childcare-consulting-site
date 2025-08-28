@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Brain, MessageCircle, Users, BookOpen, Hand, Lightbulb } from "lucide-react"
+import { Brain, MessageCircle, Users, BookOpen, Hand } from "lucide-react"
 import Link from "next/link"
 
 export function ServicesSection() {

@@ -2,6 +2,7 @@ import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
 import { Card, CardContent } from "@/components/ui/card"
 import Image from "next/image"
+import Link from "next/link"
 
 export default function About() {
   return (
@@ -42,7 +43,7 @@ export default function About() {
                   </p>
                   
                   <p>
-                    Later when my own children were born, I began to volunteer at their school serving as the PTA President. One day, the Principal said, "Would you like to work in the classroom supporting children with special needs?" That was the beginning of my educational career which has now reached its 17th year!
+                    Later when my own children were born, I began to volunteer at their school serving as the PTA President. One day, the Principal said, &ldquo;Would you like to work in the classroom supporting children with special needs?&rdquo; That was the beginning of my educational career which has now reached its 17th year!
                   </p>
                   
                   <p>
@@ -50,7 +51,7 @@ export default function About() {
                   </p>
                   
                   <p>
-                    My goal is to continue this journey as it shifts fully towards supporting Early Childhood Educators as this is where the true work begins. I did not recognize it before as I was blessed to be a part of so many aspects of education. Yet I realized that birth through 5 is the most important and impressionable time for young children's development. There is still a huge gap in this area and I intend to support as many Early Childhood Educators and Families with closing this gap. I am returning to my roots!
+                    My goal is to continue this journey as it shifts fully towards supporting Early Childhood Educators as this is where the true work begins. I did not recognize it before as I was blessed to be a part of so many aspects of education. Yet I realized that birth through 5 is the most important and impressionable time for young children&apos;s development. There is still a huge gap in this area and I intend to support as many Early Childhood Educators and Families with closing this gap. I am returning to my roots!
                   </p>
                 </div>
                   </div>
@@ -76,18 +77,18 @@ export default function About() {
                 Ready to transform your family childcare program with inclusive practices?
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
+                <Link
                   href="/contact"
                   className="inline-flex items-center justify-center rounded-md bg-primary px-8 py-3 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90"
                 >
                   Schedule a Consultation
-                </a>
-                <a
+                </Link>
+                <Link
                   href="/"
                   className="inline-flex items-center justify-center rounded-md border border-input bg-background px-8 py-3 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground"
                 >
                   Learn About Our Services
-                </a>
+                </Link>
               </div>
             </div>
           </div>
