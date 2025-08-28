@@ -117,7 +117,7 @@ export function ServicesSection() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>
-                <Link href="/contact">Schedule a Consultation</Link>
+                <Link href="https://calendar.app.google/7CyUBoFrvGkEnTrB9" target="_blank" rel="noopener noreferrer">Schedule a Consultation</Link>
               </Button>
               <Button size="lg" variant="outline" asChild>
                 <Link href="/about">Learn More About Our Approach</Link>

@@ -14,12 +14,9 @@ export function HeroSection() {
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
             Expert early intervention strategies, social emotional development, speech & language support, behavior intervention, early math & literacy, and sensory processing guidance for family childcare providers.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
+          <div className="flex justify-center mb-16">
             <Button size="lg" asChild>
-              <Link href="/contact">Schedule a Consultation</Link>
-            </Button>
-            <Button size="lg" variant="outline" asChild>
-              <Link href="/resources">Explore Resources</Link>
+              <Link href="https://calendar.app.google/7CyUBoFrvGkEnTrB9" target="_blank" rel="noopener noreferrer">Schedule a Consultation</Link>
             </Button>
           </div>
         </div>

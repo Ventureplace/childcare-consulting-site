@@ -23,10 +23,8 @@ export function Footer() {
                 <Phone className="h-4 w-4" />
                 <span>925-428-1624</span>
               </div>
-              <div className="flex items-center gap-2 text-muted-foreground">
-                <MapPin className="h-4 w-4" />
-                <span>Serving providers nationwide</span>
-              </div>
+
+
             </div>
           </div>
 

@@ -44,7 +44,7 @@ export default function About() {
                   </p>
                   
                   <p>
-                    I have served as a Paraprofessional, 1:1 Classroom Aide, Special Education Teacher, Family Childcare Provider, Teacher Assistant in the English Department Junior College supporting recently graduated high school students with writing essays: many of whom had former IEPs, Early Interventionist, Inclusion Specialist and Inclusion Manager, having earned an Associate of Science Education, Bachelor of Arts Liberal Studies with a concentration in Teacher Education, and of course a Master of Education in ECE and ECSE.
+                    I have served as a Paraprofessional, 1:1 Classroom Aide, Special Education Teacher, Family Childcare Provider, Teacher Assistant in the English Department for a Junior College supporting recently graduated high school students with writing essays; many of whom had former IEPs, Early Interventionist, Inclusion Specialist and Inclusion Manager, having earned an Associate of Science Education, Bachelor of Arts Liberal Studies with a concentration in Teacher Education, and a Master of Education in ECE and ECSE.
                   </p>
                   
                   <p>
@@ -62,7 +62,7 @@ export default function About() {
                     <li>• Master of Education in Early Childhood Education & Early Childhood Special Education</li>
                     <li>• Bachelor of Arts Liberal Studies with concentration in Teacher Education</li>
                     <li>• Associate of Science Education</li>
-                    <li>• 17+ years of experience in education and special needs support</li>
+                    <li>• 17+ years of experience in education and supporting children with special needs</li>
                     <li>• Roles spanning from Paraprofessional to Inclusion Manager</li>
                   </ul>
                 </div>
@@ -75,7 +75,9 @@ export default function About() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
-                  href="/contact"
+                  href="https://calendar.app.google/7CyUBoFrvGkEnTrB9"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center justify-center rounded-md bg-primary px-8 py-3 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90"
                 >
                   Schedule a Consultation
