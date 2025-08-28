@@ -1,7 +1,6 @@
 import { Navigation } from "@/components/navigation"
 import { HeroSection } from "@/components/hero-section"
 import { ServicesSection } from "@/components/services-section"
-import { TestimonialsSection } from "@/components/testimonials-section"
 import { Footer } from "@/components/footer"
 
 export default function Home() {
@@ -10,8 +9,8 @@ export default function Home() {
     "@type": "LocalBusiness",
     "name": "Family Childcare Consulting for Children with Special Needs",
     "description": "Expert family childcare consulting specializing in special needs children. Early intervention strategies, social emotional development, speech & language support, behavior intervention, early math & literacy, and sensory processing guidance.",
-    "telephone": "925-383-5506",
-    "email": "igodwin137@gmail.com",
+    "telephone": "925-428-1624",
+    "email": "exceptionalchildrenfcc@gmail.com",
     "serviceArea": "Nationwide",
     "hasOfferingCatalog": {
       "@type": "OfferingCatalog",
@@ -79,7 +78,6 @@ export default function Home() {
       <main>
         <HeroSection />
         <ServicesSection />
-        <TestimonialsSection />
       </main>
       <Footer />
     </>

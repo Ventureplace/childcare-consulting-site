@@ -8,7 +8,7 @@ export function ServicesSection() {
     {
       icon: Brain,
       title: "Early Intervention Strategies",
-      description: "Evidence-based early intervention strategies tailored for family childcare settings. We help providers identify developmental delays early and implement targeted interventions that support children&apos;s growth during critical early years.",
+      description: "Early intervention strategies tailored for family childcare settings. We help providers identify developmental delays early and implement targeted interventions that support children's growth during critical early years.",
       features: [
         "Developmental milestone tracking and assessment",
         "Individualized intervention planning",
@@ -20,37 +20,20 @@ export function ServicesSection() {
     {
       icon: Users,
       title: "Social Emotional Development",
-      description: "Comprehensive social emotional learning programs designed for children with special needs in family childcare environments. Build emotional intelligence, self-regulation, and social skills through structured activities and supportive interactions.",
+      description: "Support with Social Emotional Development, Implement self-regulation strategies as children learn through play. Build emotional intelligence and social skills through structured activities and supportive interactions.",
       features: [
         "Emotion recognition and regulation techniques",
         "Social skills development activities",
-        "Conflict resolution strategies",
-        "Attachment and relationship building",
-        "Trauma-informed care approaches"
+        "Attachment and relationship building"
       ]
     },
     {
       icon: MessageCircle,
       title: "Speech and Language Support",
-      description: "Specialized speech and language development strategies for family childcare providers. Learn to support communication milestones, address language delays, and create language-rich environments that foster communication growth.",
+      description: "Specialized speech and language development strategies for family childcare providers. Learn to support communication milestones and create language-rich environments that foster communication growth.",
       features: [
         "Language milestone development tracking",
-        "Communication enhancement activities",
-        "Alternative communication methods (AAC)",
-        "Articulation and phonology support",
-        "Bilingual language development strategies"
-      ]
-    },
-    {
-      icon: Lightbulb,
-      title: "Behavior Intervention Support",
-      description: "Positive behavior intervention and support (PBIS) strategies specifically adapted for family childcare settings. Address challenging behaviors with evidence-based approaches that promote positive outcomes for all children.",
-      features: [
-        "Functional behavior assessment techniques",
-        "Positive reinforcement systems",
-        "Environmental modification strategies",
-        "Crisis de-escalation methods",
-        "Collaborative behavior planning"
+        "Communication enhancement activities"
       ]
     },
     {
@@ -70,10 +53,7 @@ export function ServicesSection() {
       title: "Sensory Processing Support",
       description: "Comprehensive sensory processing strategies for children with sensory needs in family childcare environments. Learn to identify sensory challenges and implement accommodations that help children regulate and participate fully.",
       features: [
-        "Sensory assessment and profiling",
         "Environmental accommodations",
-        "Sensory diet development",
-        "Self-regulation techniques",
         "Sensory-friendly activity planning"
       ]
     }
@@ -87,7 +67,7 @@ export function ServicesSection() {
             Specialized Family Childcare Consulting Services
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            Comprehensive support for family childcare providers caring for children with special needs. Our expert consulting covers all aspects of early childhood development and intervention.
+            Comprehensive support for family childcare providers caring for children with special needs. Our expert consulting covers important aspects of early child development to ensure that each child reaches their full potential.
           </p>
         </div>
 

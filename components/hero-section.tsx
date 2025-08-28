@@ -9,7 +9,7 @@ export function HeroSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h1 className="text-4xl md:text-6xl font-serif font-bold text-foreground mb-6">
-            Family Childcare Consulting for Children with Special Needs
+            Family Childcare Consulting for Providers Caring for Children with Special Needs
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
             Expert early intervention strategies, social emotional development, speech & language support, behavior intervention, early math & literacy, and sensory processing guidance for family childcare providers.
@@ -57,7 +57,7 @@ export function HeroSection() {
               </div>
               <h3 className="font-serif font-semibold text-lg mb-2">Speech & Language</h3>
               <p className="text-muted-foreground text-sm">
-                Support communication milestones and create language-rich learning environments.
+                Support communication milestones and create language-enriched learning environments.
               </p>
             </CardContent>
           </Card>
