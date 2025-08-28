@@ -15,9 +15,6 @@ export default function About() {
               <h1 className="text-4xl md:text-5xl font-serif font-bold text-foreground mb-6">
                 About Me
               </h1>
-              <p className="text-xl text-muted-foreground">
-                My journey in early childhood education and special needs support
-              </p>
             </div>
 
             <Card className="mb-12">
