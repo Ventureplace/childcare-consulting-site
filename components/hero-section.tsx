@@ -42,7 +42,7 @@ export function HeroSection() {
               </div>
               <h3 className="font-serif font-semibold text-lg mb-2">Social Emotional Development</h3>
               <p className="text-muted-foreground text-sm">
-                Build emotional intelligence and social skills through structured activities and support.
+                Build social emotional skills through play, structured activities, and support.
               </p>
             </CardContent>
           </Card>

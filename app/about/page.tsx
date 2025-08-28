@@ -62,6 +62,7 @@ export default function About() {
                     <li>• Master of Education in Early Childhood Education & Early Childhood Special Education</li>
                     <li>• Bachelor of Arts Liberal Studies with concentration in Teacher Education</li>
                     <li>• Associate of Science Education</li>
+                    <li>• Child Development Director Permit</li>
                     <li>• 17+ years of experience in education and supporting children with special needs</li>
                     <li>• Roles spanning from Paraprofessional to Inclusion Manager</li>
                   </ul>
