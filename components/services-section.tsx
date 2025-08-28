@@ -60,7 +60,7 @@ export function ServicesSection() {
   ]
 
   return (
-    <section className="py-20 bg-background">
+    <section className="py-20 bg-gradient-to-b from-blue-50 via-purple-50 to-pink-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-foreground mb-4">
@@ -75,11 +75,11 @@ export function ServicesSection() {
           {services.map((service, index) => {
             const IconComponent = service.icon
             return (
-              <Card key={index} className="hover:shadow-lg transition-shadow h-full">
+              <Card key={index} className="hover:shadow-lg transition-shadow h-full bg-gradient-to-br from-white to-blue-50 border-blue-200">
                 <CardHeader>
                   <div className="flex items-start gap-4">
-                    <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
-                      <IconComponent className="h-6 w-6 text-primary" />
+                    <div className="w-12 h-12 bg-gradient-to-br from-purple-400 to-pink-500 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <IconComponent className="h-6 w-6 text-white" />
                     </div>
                     <div>
                       <CardTitle className="text-xl font-serif mb-2">{service.title}</CardTitle>
@@ -108,7 +108,7 @@ export function ServicesSection() {
         </div>
 
         <div className="text-center">
-          <div className="bg-card rounded-lg p-8">
+          <div className="bg-gradient-to-br from-yellow-100 via-pink-100 to-purple-100 rounded-lg p-8 border-2 border-pink-200">
             <h3 className="text-2xl font-serif font-bold text-foreground mb-4">
               Ready to Transform Your Family Childcare Program?
             </h3>

@@ -24,15 +24,6 @@ export function Navigation() {
               <Link href="/" className="text-foreground hover:text-primary transition-colors">
                 Home
               </Link>
-              <Link href="/consulting" className="text-foreground hover:text-primary transition-colors">
-                Consulting
-              </Link>
-              <Link href="/training" className="text-foreground hover:text-primary transition-colors">
-                Training
-              </Link>
-              <Link href="/resources" className="text-foreground hover:text-primary transition-colors">
-                Resources
-              </Link>
               <Link href="/about" className="text-foreground hover:text-primary transition-colors">
                 About
               </Link>

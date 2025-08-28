@@ -4,32 +4,32 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated color tokens to match the warm, professional design brief */
-  --background: oklch(1 0 0); /* White background */
-  --foreground: oklch(0.25 0 0); /* Dark gray text (#374151) */
-  --card: oklch(0.99 0.02 85); /* Light cream card background (#fefce8) */
-  --card-foreground: oklch(0.25 0 0); /* Dark gray card text */
+  /* Kid-friendly bright color scheme */
+  --background: oklch(0.98 0.02 180); /* Light sky blue background */
+  --foreground: oklch(0.3 0.05 250); /* Deep purple text for readability */
+  --card: oklch(1 0 0); /* Pure white card background for contrast */
+  --card-foreground: oklch(0.3 0.05 250); /* Deep purple card text */
   --popover: oklch(1 0 0); /* White popover background */
-  --popover-foreground: oklch(0.25 0 0); /* Dark gray popover text */
-  --primary: oklch(0.65 0.15 65); /* Warm amber primary (#d97706) */
+  --popover-foreground: oklch(0.3 0.05 250); /* Deep purple popover text */
+  --primary: oklch(0.65 0.2 300); /* Bright magenta primary */
   --primary-foreground: oklch(1 0 0); /* White text on primary */
-  --secondary: oklch(0.55 0.12 200); /* Cyan accent (#0891b2) */
+  --secondary: oklch(0.7 0.18 120); /* Bright green secondary */
   --secondary-foreground: oklch(1 0 0); /* White text on secondary */
-  --muted: oklch(0.98 0 0); /* Light muted background (#f9fafb) */
-  --muted-foreground: oklch(0.25 0 0); /* Dark gray muted text */
-  --accent: oklch(0.55 0.12 200); /* Cyan accent color */
+  --muted: oklch(0.95 0.03 200); /* Light blue muted background */
+  --muted-foreground: oklch(0.4 0.05 250); /* Purple muted text */
+  --accent: oklch(0.75 0.2 45); /* Bright orange accent */
   --accent-foreground: oklch(1 0 0); /* White text on accent */
-  --destructive: oklch(0.577 0.245 27.325);
+  --destructive: oklch(0.65 0.2 15); /* Bright red */
   --destructive-foreground: oklch(1 0 0);
-  --border: oklch(0.92 0 0); /* Light gray border (#e5e7eb) */
-  --input: oklch(0.98 0 0); /* Light input background */
-  --ring: oklch(0.65 0.15 65 / 0.3); /* Primary color ring with opacity */
-  --chart-1: oklch(0.65 0.15 65); /* Primary amber */
-  --chart-2: oklch(0.55 0.12 200); /* Cyan accent */
-  --chart-3: oklch(0.25 0 0); /* Dark gray */
-  --chart-4: oklch(0.99 0.02 85); /* Light cream */
-  --chart-5: oklch(0.97 0.02 200); /* Light cyan */
-  --radius: 0.5rem; /* Rounded corners for friendly feel */
+  --border: oklch(0.9 0.03 200); /* Light blue border */
+  --input: oklch(0.98 0.02 180); /* Light blue input background */
+  --ring: oklch(0.65 0.2 300 / 0.3); /* Primary color ring with opacity */
+  --chart-1: oklch(0.65 0.2 300); /* Bright magenta */
+  --chart-2: oklch(0.7 0.18 120); /* Bright green */
+  --chart-3: oklch(0.75 0.2 45); /* Bright orange */
+  --chart-4: oklch(0.7 0.15 60); /* Bright yellow */
+  --chart-5: oklch(0.6 0.15 240); /* Bright blue */
+  --radius: 1rem; /* More rounded corners for playful feel */
   --sidebar: oklch(1 0 0);
   --sidebar-foreground: oklch(0.25 0 0);
   --sidebar-primary: oklch(0.65 0.15 65);
