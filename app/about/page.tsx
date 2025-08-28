@@ -44,7 +44,7 @@ export default function About() {
                   </p>
                   
                   <p>
-                    I have served as a Paraprofessional, 1:1 Classroom Aide, Special Education Teacher, Family Childcare Provider, Teacher Assistant in the English Department for a Junior College supporting recently graduated high school students with writing essays; many of whom had former IEPs, Early Interventionist, Inclusion Specialist and Inclusion Manager, having earned an Associate of Science Education, Bachelor of Arts Liberal Studies with a concentration in Teacher Education, and a Master of Education in ECE and ECSE.
+                    I have served as a Paraprofessional, 1:1 Classroom Aide, Special Education Teacher, Family Childcare Provider, Teacher Assistant in the English Department for a Junior College supporting recently graduated high school students with writing essays; many of whom had former IEPs, Early Interventionist, Inclusion Specialist and Inclusion Manager, having earned an Associate of Science Education, Bachelor of Arts Liberal Studies with a concentration in Teacher Education, Child development Director permit, and a Master of Education in ECE and ECSE.
                   </p>
                   
                   <p>
