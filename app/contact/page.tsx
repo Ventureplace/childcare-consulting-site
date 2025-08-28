@@ -95,7 +95,7 @@ export default function Contact() {
                       </div>
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Initial Consultation</h3>
-                        <p className="text-sm text-muted-foreground">We'll discuss your specific needs and current challenges</p>
+                        <p className="text-sm text-muted-foreground">We&apos;ll discuss your specific needs and current challenges</p>
                       </div>
                     </div>
                     
